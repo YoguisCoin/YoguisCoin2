@@ -1,0 +1,23 @@
+.titulo span{
+    color:#edc605 ;
+}
+
+.nav-link{
+    color:black;
+}
+
+.navbar{
+    border-top: 1px solid #e1e1e1;
+    border-bottom: 1px solid #e1e1e1;
+}
+
+.imagen-bg{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.imagen-principal{
+    background-image: url(../crypto-currency-banner-horizontal-bitcoin-digital-web-money-technology_48369-13318.jpg);
+    height: 35rem;
+}
