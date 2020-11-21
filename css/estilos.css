@@ -11,13 +11,46 @@
     border-bottom: 1px solid #e1e1e1;
 }
 
+.imagen-principal{
+    background-image: url(../imagenes/crypto-currency-banner-horizontal-bitcoin-digital-web-money-technology_48369-13318.jpg);
+    height: 35rem;
+}
+
 .imagen-bg{
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
 }
 
-.imagen-principal{
-    background-image: url(../crypto-currency-banner-horizontal-bitcoin-digital-web-money-technology_48369-13318.jpg);
-    height: 35rem;
+.container-fluid {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.categorias h2{
+    font-size: 2.5rem;
+    color: #f7be16;
+}
+.categorias a{
+    font-weight: 400;
+    color: #272121;
+    text-decoration: none;
+}
+
+.nosotros .img-nosotros{
+    min-height: 30rem ;
+}
+
+.img-nosotros{
+    background-image: url(../imagenes/logo\ completo.jpg);
+    
+}
+
+.imagen-bg {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
