@@ -1,0 +1,1 @@
+# YoguisCoin2
